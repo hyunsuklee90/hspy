@@ -1,7 +1,4 @@
 setup.py
-./hspy/__init__.py
-./hspy/setup.py
-./hspy/ttt.py
 hspy.egg-info/PKG-INFO
 hspy.egg-info/SOURCES.txt
 hspy.egg-info/dependency_links.txt
