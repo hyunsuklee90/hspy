@@ -1,0 +1,5 @@
+setup.py
+src/hspy.egg-info/PKG-INFO
+src/hspy.egg-info/SOURCES.txt
+src/hspy.egg-info/dependency_links.txt
+src/hspy.egg-info/top_level.txt
