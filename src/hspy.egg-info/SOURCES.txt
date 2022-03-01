@@ -1,4 +1,6 @@
 setup.py
+src/hspy/__init__.py
+src/hspy/ttt.py
 src/hspy.egg-info/PKG-INFO
 src/hspy.egg-info/SOURCES.txt
 src/hspy.egg-info/dependency_links.txt
